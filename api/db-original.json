@@ -1,13 +1,58 @@
 {
   "users": [
     {
+      "id": 1,
+      "username": "user1",
+      "name": "John",
+      "lastname": "Doe",
+      "email": "john.doe@example.com",
+      "status": "active",
+      "age": 30
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "name": "Jane",
+      "lastname": "Smith",
+      "email": "jane.smith@example.com",
+      "status": "inactive",
+      "age": 25
+    },
+    {
+      "id": 3,
+      "username": "user3",
+      "name": "Michael",
+      "lastname": "Johnson",
+      "email": "michael.johnson@example.com",
+      "status": "active",
+      "age": 35
+    },
+    {
+      "id": 4,
+      "username": "user4",
+      "name": "Emily",
+      "lastname": "Brown",
+      "email": "emily.brown@example.com",
+      "status": "active",
+      "age": 28
+    },
+    {
+      "id": 5,
+      "username": "user5",
+      "name": "William",
+      "lastname": "Wilson",
+      "email": "william.wilson@example.com",
+      "status": "inactive",
+      "age": 40
+    },
+    {
+      "id": 6,
       "username": "user6",
-      "email": "olivia.jones@example.com",
       "name": "Olivia",
       "lastname": "Jones",
+      "email": "olivia.jones@example.com",
       "status": "active",
-      "age": 32,
-      "id": 6
+      "age": 32
     },
     {
       "id": 7,
@@ -37,13 +82,13 @@
       "age": 33
     },
     {
+      "id": 10,
+      "username": "user10",
       "name": "Charlotte",
       "lastname": "Garcia",
-      "username": "user10",
       "email": "charlotte.garcia@example.com",
-      "age": 29,
-      "status": "active",
-      "id": 10
+      "status": "inactive",
+      "age": 29
     },
     {
       "id": 11,
@@ -226,6 +271,15 @@
       "age": 30
     },
     {
+      "id": 31,
+      "username": "user31",
+      "name": "Carter",
+      "lastname": "Green",
+      "email": "carter.green@example.com",
+      "status": "active",
+      "age": 32
+    },
+    {
       "id": 32,
       "username": "user32",
       "name": "Riley",
@@ -395,51 +449,6 @@
       "email": "grace.allen@example.com",
       "status": "active",
       "age": 32
-    },
-    {
-      "name": "nombreTest",
-      "lastname": "apellidoTest",
-      "username": "usuarioTest",
-      "email": "correoTest@gmail.com",
-      "age": "22",
-      "status": "active",
-      "id": 51
-    },
-    {
-      "name": "Test2",
-      "lastname": "Test2",
-      "username": "Test2",
-      "email": "Test2@gmail.com",
-      "age": "22",
-      "status": "inactive",
-      "id": 52
-    },
-    {
-      "name": "Test3",
-      "lastname": "Test3",
-      "username": "Test3",
-      "email": "Test3@gmail.com",
-      "age": "24",
-      "status": "active",
-      "id": 53
-    },
-    {
-      "name": "Test4",
-      "lastname": "Test4",
-      "username": "Test4",
-      "email": "Test4@gmail.com",
-      "age": "25",
-      "status": "active",
-      "id": "b5995798-b62b-45e1-9508-c57059eba3bd"
-    },
-    {
-      "username": "user12x",
-      "email": "test5@gmail.com",
-      "name": "test5",
-      "lastname": "test5",
-      "status": "active",
-      "age": "2",
-      "id": "5b4397a9-c23a-4a76-bb23-cf347c13f903"
     }
   ]
 }
